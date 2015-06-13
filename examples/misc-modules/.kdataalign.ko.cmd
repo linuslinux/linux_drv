@@ -1,0 +1,1 @@
+cmd_/root/DRV/examples/misc-modules/kdataalign.ko := ld -m elf_i386 -r -o /root/DRV/examples/misc-modules/kdataalign.ko /root/DRV/examples/misc-modules/kdataalign.o /root/DRV/examples/misc-modules/kdataalign.mod.o

@@ -1,0 +1,1 @@
+cmd_/root/DRV/examples/misc-modules/complete.ko := ld -m elf_i386 -r -o /root/DRV/examples/misc-modules/complete.ko /root/DRV/examples/misc-modules/complete.o /root/DRV/examples/misc-modules/complete.mod.o

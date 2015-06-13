@@ -1,0 +1,1 @@
+cmd_/root/DRV/examples/misc-modules/kdatasize.ko := ld -m elf_i386 -r -o /root/DRV/examples/misc-modules/kdatasize.ko /root/DRV/examples/misc-modules/kdatasize.o /root/DRV/examples/misc-modules/kdatasize.mod.o
